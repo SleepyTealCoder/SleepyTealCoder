@@ -16,7 +16,7 @@ I usually write code in C and C++ in my day job. Outside of this, I tend to stre
 On stream Twitch notifications:
 
 - Server
-- Test Server
+- ~~Test Server~~ _Merged into Server and is now known as test mode_
 - Desktop Client
 
 ## Recent projects & learnings done on stream
